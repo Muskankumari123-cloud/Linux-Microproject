@@ -1,0 +1,55 @@
+===== STORAGE REPORT: Muskans-MacBook-Air.local | Wed Oct 28 09:27:54 IST 2026 =====
+
+--- Disk Utilization ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    13Gi   100Gi    12%    484k  1.0G    0%   /
+/dev/disk3s6     228Gi   2.0Gi   100Gi     2%       2  1.0G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi    10Gi   100Gi    10%    1.0k  1.0G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi    21Mi   100Gi     1%      65  1.0G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   482Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   6.0Mi   482Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   1.1Mi   482Mi     1%     102  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi   102Gi   100Gi    51%    1.4M  1.0G    0%   /System/Volumes/Data
+/dev/disk3s3     228Gi   1.4Gi   100Gi     2%      69  1.0G    0%   /Volumes/Recovery
+
+--- Inode Usage ---
+Filesystem     512-blocks      Used Available Capacity iused      ifree %iused  Mounted on
+/dev/disk3s1s1  478724992  26680328 209633776    12%  484019 1048168880    0%   /
+/dev/disk3s6    478724992   4194360 209633776     2%       2 1048168880    0%   /System/Volumes/VM
+/dev/disk3s2    478724992  21247112 209633776    10%    1010 1048168880    0%   /System/Volumes/Preboot
+/dev/disk3s4    478724992     43472 209633776     1%      65 1048168880    0%   /System/Volumes/Update
+/dev/disk1s2      1024000     12328    987344     2%       1    4936720    0%   /System/Volumes/xarts
+/dev/disk1s1      1024000     12280    987344     2%      31    4936720    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3      1024000      2328    987344     1%     102    4936720    0%   /System/Volumes/Hardware
+/dev/disk3s5    478724992 213654080 209633776    51% 1385974 1048168880    0%   /System/Volumes/Data
+/dev/disk3s3    478724992   3003736 209633776     2%      69 1048168880    0%   /Volumes/Recovery
+
+--- Top 10 Largest Folders in Home ---
+ 20G	/Users/muskan
+ 16G	/Users/muskan/Library
+9.0G	/Users/muskan/Library/Application Support
+6.5G	/Users/muskan/Library/Caches
+5.1G	/Users/muskan/Library/Application Support/Autodesk
+5.0G	/Users/muskan/Library/Application Support/Autodesk/webdeploy/production/5b5b66366617ae75f417970c19898a486caf3f55/Autodesk Fusion 360.app/Contents
+5.0G	/Users/muskan/Library/Application Support/Autodesk/webdeploy/production/5b5b66366617ae75f417970c19898a486caf3f55/Autodesk Fusion 360.app
+5.0G	/Users/muskan/Library/Application Support/Autodesk/webdeploy/production/5b5b66366617ae75f417970c19898a486caf3f55
+5.0G	/Users/muskan/Library/Application Support/Autodesk/webdeploy/production
+5.0G	/Users/muskan/Library/Application Support/Autodesk/webdeploy
+
+--- Recent Alerts ---
+2026-10-28 09:26:57 [ALERT] Inode usage on / is 0% (threshold 0%)
+2026-10-28 09:26:57 [ALERT] Inode usage on /System/Volumes/VM is 0% (threshold 0%)
+2026-10-28 09:26:57 [ALERT] Inode usage on /System/Volumes/Preboot is 0% (threshold 0%)
+2026-10-28 09:26:57 [ALERT] Inode usage on /System/Volumes/Update is 0% (threshold 0%)
+2026-10-28 09:26:57 [ALERT] Inode usage on /System/Volumes/xarts is 0% (threshold 0%)
+2026-10-28 09:26:57 [ALERT] Inode usage on /System/Volumes/iSCPreboot is 0% (threshold 0%)
+2026-10-28 09:26:57 [ALERT] Inode usage on /System/Volumes/Hardware is 0% (threshold 0%)
+2026-10-28 09:26:57 [ALERT] Inode usage on /System/Volumes/Data is 0% (threshold 0%)
+2026-10-28 09:26:57 [ALERT] Inode usage on /Volumes/Recovery is 0% (threshold 0%)
+2026-10-28 09:27:27 [ALERT] Storage grew by 602 MB since last check (threshold 500 MB)
+
+--- Growth History (last 10) ---
+2026-10-28_09:22:10,106788208
+2026-10-28_09:25:22,106807080
+2026-10-28_09:27:24,106825300
+2026-10-28_09:27:27,107442492
